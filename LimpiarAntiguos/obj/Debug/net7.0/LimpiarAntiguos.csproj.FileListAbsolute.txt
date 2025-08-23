@@ -1,0 +1,84 @@
+C:\Users\Juan Zelaya\source\repos\SolucionLimpiar\LimpiarAntiguos\bin\Debug\net7.0\LimpiarAntiguos.exe
+C:\Users\Juan Zelaya\source\repos\SolucionLimpiar\LimpiarAntiguos\bin\Debug\net7.0\LimpiarAntiguos.deps.json
+C:\Users\Juan Zelaya\source\repos\SolucionLimpiar\LimpiarAntiguos\bin\Debug\net7.0\LimpiarAntiguos.runtimeconfig.json
+C:\Users\Juan Zelaya\source\repos\SolucionLimpiar\LimpiarAntiguos\bin\Debug\net7.0\LimpiarAntiguos.dll
+C:\Users\Juan Zelaya\source\repos\SolucionLimpiar\LimpiarAntiguos\bin\Debug\net7.0\LimpiarAntiguos.pdb
+C:\Users\Juan Zelaya\source\repos\SolucionLimpiar\LimpiarAntiguos\obj\Debug\net7.0\LimpiarAntiguos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Zelaya\source\repos\SolucionLimpiar\LimpiarAntiguos\obj\Debug\net7.0\LimpiarAntiguos.AssemblyInfoInputs.cache
+C:\Users\Juan Zelaya\source\repos\SolucionLimpiar\LimpiarAntiguos\obj\Debug\net7.0\LimpiarAntiguos.AssemblyInfo.cs
+C:\Users\Juan Zelaya\source\repos\SolucionLimpiar\LimpiarAntiguos\obj\Debug\net7.0\LimpiarAntiguos.csproj.CoreCompileInputs.cache
+C:\Users\Juan Zelaya\source\repos\SolucionLimpiar\LimpiarAntiguos\obj\Debug\net7.0\LimpiarAntiguos.dll
+C:\Users\Juan Zelaya\source\repos\SolucionLimpiar\LimpiarAntiguos\obj\Debug\net7.0\refint\LimpiarAntiguos.dll
+C:\Users\Juan Zelaya\source\repos\SolucionLimpiar\LimpiarAntiguos\obj\Debug\net7.0\LimpiarAntiguos.pdb
+C:\Users\Juan Zelaya\source\repos\SolucionLimpiar\LimpiarAntiguos\obj\Debug\net7.0\LimpiarAntiguos.genruntimeconfig.cache
+C:\Users\Juan Zelaya\source\repos\SolucionLimpiar\LimpiarAntiguos\obj\Debug\net7.0\ref\LimpiarAntiguos.dll
+C:\Users\Juan Zelaya\Desktop\Proyecto de limpieza\Consola\V1\SolucionLimpiar\LimpiarAntiguos\bin\Debug\net7.0\LimpiarAntiguos.exe
+C:\Users\Juan Zelaya\Desktop\Proyecto de limpieza\Consola\V1\SolucionLimpiar\LimpiarAntiguos\bin\Debug\net7.0\LimpiarAntiguos.deps.json
+C:\Users\Juan Zelaya\Desktop\Proyecto de limpieza\Consola\V1\SolucionLimpiar\LimpiarAntiguos\bin\Debug\net7.0\LimpiarAntiguos.runtimeconfig.json
+C:\Users\Juan Zelaya\Desktop\Proyecto de limpieza\Consola\V1\SolucionLimpiar\LimpiarAntiguos\bin\Debug\net7.0\LimpiarAntiguos.dll
+C:\Users\Juan Zelaya\Desktop\Proyecto de limpieza\Consola\V1\SolucionLimpiar\LimpiarAntiguos\bin\Debug\net7.0\LimpiarAntiguos.pdb
+C:\Users\Juan Zelaya\Desktop\Proyecto de limpieza\Consola\V1\SolucionLimpiar\LimpiarAntiguos\obj\Debug\net7.0\LimpiarAntiguos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Zelaya\Desktop\Proyecto de limpieza\Consola\V1\SolucionLimpiar\LimpiarAntiguos\obj\Debug\net7.0\LimpiarAntiguos.AssemblyInfoInputs.cache
+C:\Users\Juan Zelaya\Desktop\Proyecto de limpieza\Consola\V1\SolucionLimpiar\LimpiarAntiguos\obj\Debug\net7.0\LimpiarAntiguos.AssemblyInfo.cs
+C:\Users\Juan Zelaya\Desktop\Proyecto de limpieza\Consola\V1\SolucionLimpiar\LimpiarAntiguos\obj\Debug\net7.0\LimpiarAntiguos.csproj.CoreCompileInputs.cache
+C:\Users\Juan Zelaya\Desktop\Proyecto de limpieza\Consola\V1\SolucionLimpiar\LimpiarAntiguos\obj\Debug\net7.0\LimpiarAntiguos.dll
+C:\Users\Juan Zelaya\Desktop\Proyecto de limpieza\Consola\V1\SolucionLimpiar\LimpiarAntiguos\obj\Debug\net7.0\refint\LimpiarAntiguos.dll
+C:\Users\Juan Zelaya\Desktop\Proyecto de limpieza\Consola\V1\SolucionLimpiar\LimpiarAntiguos\obj\Debug\net7.0\LimpiarAntiguos.pdb
+C:\Users\Juan Zelaya\Desktop\Proyecto de limpieza\Consola\V1\SolucionLimpiar\LimpiarAntiguos\obj\Debug\net7.0\LimpiarAntiguos.genruntimeconfig.cache
+C:\Users\Juan Zelaya\Desktop\Proyecto de limpieza\Consola\V1\SolucionLimpiar\LimpiarAntiguos\obj\Debug\net7.0\ref\LimpiarAntiguos.dll
+C:\Users\Juan Zelaya\Desktop\V1\SolucionLimpiar\LimpiarAntiguos\bin\Debug\net7.0\LimpiarAntiguos.exe
+C:\Users\Juan Zelaya\Desktop\V1\SolucionLimpiar\LimpiarAntiguos\bin\Debug\net7.0\LimpiarAntiguos.deps.json
+C:\Users\Juan Zelaya\Desktop\V1\SolucionLimpiar\LimpiarAntiguos\bin\Debug\net7.0\LimpiarAntiguos.runtimeconfig.json
+C:\Users\Juan Zelaya\Desktop\V1\SolucionLimpiar\LimpiarAntiguos\bin\Debug\net7.0\LimpiarAntiguos.dll
+C:\Users\Juan Zelaya\Desktop\V1\SolucionLimpiar\LimpiarAntiguos\bin\Debug\net7.0\LimpiarAntiguos.pdb
+C:\Users\Juan Zelaya\Desktop\V1\SolucionLimpiar\LimpiarAntiguos\obj\Debug\net7.0\LimpiarAntiguos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Zelaya\Desktop\V1\SolucionLimpiar\LimpiarAntiguos\obj\Debug\net7.0\LimpiarAntiguos.AssemblyInfoInputs.cache
+C:\Users\Juan Zelaya\Desktop\V1\SolucionLimpiar\LimpiarAntiguos\obj\Debug\net7.0\LimpiarAntiguos.AssemblyInfo.cs
+C:\Users\Juan Zelaya\Desktop\V1\SolucionLimpiar\LimpiarAntiguos\obj\Debug\net7.0\LimpiarAntiguos.csproj.CoreCompileInputs.cache
+C:\Users\Juan Zelaya\Desktop\V1\SolucionLimpiar\LimpiarAntiguos\obj\Debug\net7.0\LimpiarAntiguos.dll
+C:\Users\Juan Zelaya\Desktop\V1\SolucionLimpiar\LimpiarAntiguos\obj\Debug\net7.0\refint\LimpiarAntiguos.dll
+C:\Users\Juan Zelaya\Desktop\V1\SolucionLimpiar\LimpiarAntiguos\obj\Debug\net7.0\LimpiarAntiguos.pdb
+C:\Users\Juan Zelaya\Desktop\V1\SolucionLimpiar\LimpiarAntiguos\obj\Debug\net7.0\LimpiarAntiguos.genruntimeconfig.cache
+C:\Users\Juan Zelaya\Desktop\V1\SolucionLimpiar\LimpiarAntiguos\obj\Debug\net7.0\ref\LimpiarAntiguos.dll
+\\192.168.0.254\arpon$\Files\Bitacora\Juan Zelaya\Proyectos\Proyecto de limpieza\Consola\V3\SolucionLimpiar\LimpiarAntiguos\bin\Debug\net7.0\LimpiarAntiguos.exe
+\\192.168.0.254\arpon$\Files\Bitacora\Juan Zelaya\Proyectos\Proyecto de limpieza\Consola\V3\SolucionLimpiar\LimpiarAntiguos\bin\Debug\net7.0\LimpiarAntiguos.deps.json
+\\192.168.0.254\arpon$\Files\Bitacora\Juan Zelaya\Proyectos\Proyecto de limpieza\Consola\V3\SolucionLimpiar\LimpiarAntiguos\bin\Debug\net7.0\LimpiarAntiguos.runtimeconfig.json
+\\192.168.0.254\arpon$\Files\Bitacora\Juan Zelaya\Proyectos\Proyecto de limpieza\Consola\V3\SolucionLimpiar\LimpiarAntiguos\bin\Debug\net7.0\LimpiarAntiguos.dll
+\\192.168.0.254\arpon$\Files\Bitacora\Juan Zelaya\Proyectos\Proyecto de limpieza\Consola\V3\SolucionLimpiar\LimpiarAntiguos\bin\Debug\net7.0\LimpiarAntiguos.pdb
+\\192.168.0.254\arpon$\Files\Bitacora\Juan Zelaya\Proyectos\Proyecto de limpieza\Consola\V3\SolucionLimpiar\LimpiarAntiguos\obj\Debug\net7.0\LimpiarAntiguos.GeneratedMSBuildEditorConfig.editorconfig
+\\192.168.0.254\arpon$\Files\Bitacora\Juan Zelaya\Proyectos\Proyecto de limpieza\Consola\V3\SolucionLimpiar\LimpiarAntiguos\obj\Debug\net7.0\LimpiarAntiguos.AssemblyInfoInputs.cache
+\\192.168.0.254\arpon$\Files\Bitacora\Juan Zelaya\Proyectos\Proyecto de limpieza\Consola\V3\SolucionLimpiar\LimpiarAntiguos\obj\Debug\net7.0\LimpiarAntiguos.AssemblyInfo.cs
+\\192.168.0.254\arpon$\Files\Bitacora\Juan Zelaya\Proyectos\Proyecto de limpieza\Consola\V3\SolucionLimpiar\LimpiarAntiguos\obj\Debug\net7.0\LimpiarAntiguos.csproj.CoreCompileInputs.cache
+\\192.168.0.254\arpon$\Files\Bitacora\Juan Zelaya\Proyectos\Proyecto de limpieza\Consola\V3\SolucionLimpiar\LimpiarAntiguos\obj\Debug\net7.0\LimpiarAntiguos.dll
+\\192.168.0.254\arpon$\Files\Bitacora\Juan Zelaya\Proyectos\Proyecto de limpieza\Consola\V3\SolucionLimpiar\LimpiarAntiguos\obj\Debug\net7.0\refint\LimpiarAntiguos.dll
+\\192.168.0.254\arpon$\Files\Bitacora\Juan Zelaya\Proyectos\Proyecto de limpieza\Consola\V3\SolucionLimpiar\LimpiarAntiguos\obj\Debug\net7.0\LimpiarAntiguos.pdb
+\\192.168.0.254\arpon$\Files\Bitacora\Juan Zelaya\Proyectos\Proyecto de limpieza\Consola\V3\SolucionLimpiar\LimpiarAntiguos\obj\Debug\net7.0\LimpiarAntiguos.genruntimeconfig.cache
+\\192.168.0.254\arpon$\Files\Bitacora\Juan Zelaya\Proyectos\Proyecto de limpieza\Consola\V3\SolucionLimpiar\LimpiarAntiguos\obj\Debug\net7.0\ref\LimpiarAntiguos.dll
+C:\Users\USUARIO\Desktop\V3\SolucionLimpiar\LimpiarAntiguos\bin\Debug\net7.0\LimpiarAntiguos.exe
+C:\Users\USUARIO\Desktop\V3\SolucionLimpiar\LimpiarAntiguos\bin\Debug\net7.0\LimpiarAntiguos.deps.json
+C:\Users\USUARIO\Desktop\V3\SolucionLimpiar\LimpiarAntiguos\bin\Debug\net7.0\LimpiarAntiguos.runtimeconfig.json
+C:\Users\USUARIO\Desktop\V3\SolucionLimpiar\LimpiarAntiguos\bin\Debug\net7.0\LimpiarAntiguos.dll
+C:\Users\USUARIO\Desktop\V3\SolucionLimpiar\LimpiarAntiguos\bin\Debug\net7.0\LimpiarAntiguos.pdb
+C:\Users\USUARIO\Desktop\V3\SolucionLimpiar\LimpiarAntiguos\obj\Debug\net7.0\LimpiarAntiguos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\V3\SolucionLimpiar\LimpiarAntiguos\obj\Debug\net7.0\LimpiarAntiguos.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\V3\SolucionLimpiar\LimpiarAntiguos\obj\Debug\net7.0\LimpiarAntiguos.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\V3\SolucionLimpiar\LimpiarAntiguos\obj\Debug\net7.0\LimpiarAntiguos.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\V3\SolucionLimpiar\LimpiarAntiguos\obj\Debug\net7.0\LimpiarAntiguos.dll
+C:\Users\USUARIO\Desktop\V3\SolucionLimpiar\LimpiarAntiguos\obj\Debug\net7.0\refint\LimpiarAntiguos.dll
+C:\Users\USUARIO\Desktop\V3\SolucionLimpiar\LimpiarAntiguos\obj\Debug\net7.0\LimpiarAntiguos.pdb
+C:\Users\USUARIO\Desktop\V3\SolucionLimpiar\LimpiarAntiguos\obj\Debug\net7.0\LimpiarAntiguos.genruntimeconfig.cache
+C:\Users\USUARIO\Desktop\V3\SolucionLimpiar\LimpiarAntiguos\obj\Debug\net7.0\ref\LimpiarAntiguos.dll
+C:\Users\USUARIO\source\repos\SolucionLimpiar\LimpiarAntiguos\bin\Debug\net7.0\LimpiarAntiguos.exe
+C:\Users\USUARIO\source\repos\SolucionLimpiar\LimpiarAntiguos\bin\Debug\net7.0\LimpiarAntiguos.deps.json
+C:\Users\USUARIO\source\repos\SolucionLimpiar\LimpiarAntiguos\bin\Debug\net7.0\LimpiarAntiguos.runtimeconfig.json
+C:\Users\USUARIO\source\repos\SolucionLimpiar\LimpiarAntiguos\bin\Debug\net7.0\LimpiarAntiguos.dll
+C:\Users\USUARIO\source\repos\SolucionLimpiar\LimpiarAntiguos\bin\Debug\net7.0\LimpiarAntiguos.pdb
+C:\Users\USUARIO\source\repos\SolucionLimpiar\LimpiarAntiguos\obj\Debug\net7.0\LimpiarAntiguos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\SolucionLimpiar\LimpiarAntiguos\obj\Debug\net7.0\LimpiarAntiguos.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\SolucionLimpiar\LimpiarAntiguos\obj\Debug\net7.0\LimpiarAntiguos.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\SolucionLimpiar\LimpiarAntiguos\obj\Debug\net7.0\LimpiarAntiguos.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\SolucionLimpiar\LimpiarAntiguos\obj\Debug\net7.0\LimpiarAntiguos.dll
+C:\Users\USUARIO\source\repos\SolucionLimpiar\LimpiarAntiguos\obj\Debug\net7.0\refint\LimpiarAntiguos.dll
+C:\Users\USUARIO\source\repos\SolucionLimpiar\LimpiarAntiguos\obj\Debug\net7.0\LimpiarAntiguos.pdb
+C:\Users\USUARIO\source\repos\SolucionLimpiar\LimpiarAntiguos\obj\Debug\net7.0\LimpiarAntiguos.genruntimeconfig.cache
+C:\Users\USUARIO\source\repos\SolucionLimpiar\LimpiarAntiguos\obj\Debug\net7.0\ref\LimpiarAntiguos.dll

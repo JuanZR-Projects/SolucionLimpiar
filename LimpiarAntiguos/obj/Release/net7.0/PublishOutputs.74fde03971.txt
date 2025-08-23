@@ -1,0 +1,5 @@
+C:\Users\USUARIO\source\repos\SolucionLimpiar\LimpiarAntiguos\bin\Release\net7.0\publish\LimpiarAntiguos.exe
+C:\Users\USUARIO\source\repos\SolucionLimpiar\LimpiarAntiguos\bin\Release\net7.0\publish\LimpiarAntiguos.dll
+C:\Users\USUARIO\source\repos\SolucionLimpiar\LimpiarAntiguos\bin\Release\net7.0\publish\LimpiarAntiguos.deps.json
+C:\Users\USUARIO\source\repos\SolucionLimpiar\LimpiarAntiguos\bin\Release\net7.0\publish\LimpiarAntiguos.runtimeconfig.json
+C:\Users\USUARIO\source\repos\SolucionLimpiar\LimpiarAntiguos\bin\Release\net7.0\publish\LimpiarAntiguos.pdb

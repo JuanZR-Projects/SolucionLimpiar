@@ -1,0 +1,2 @@
+C:\Users\USUARIO\source\repos\SolucionLimpiar\LimpiarAntiguos\bin\Release\net7.0\publish\win-x64\LimpiarAntiguos.pdb
+C:\Users\USUARIO\source\repos\SolucionLimpiar\LimpiarAntiguos\bin\Release\net7.0\publish\win-x64\LimpiarAntiguos.exe
