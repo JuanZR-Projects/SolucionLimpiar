@@ -14,7 +14,8 @@ namespace LimpiarAntiguos
             //Ruta de la carpeta a limpiar.
             string folder = @"C:\NombreCarpetaArchivo-dot-ini\";
             Console.WriteLine("");
-            int dias = 30; //Determinamos los días de antigüedad de cada archivo.
+            int dias; //Determinamos los días de antigüedad. Si un archivo cumple más de ese tiempo, será eliminado.
+            string valorDias; //Valor extraido del documento "config.ini".
 
             try
             {
@@ -24,13 +25,51 @@ namespace LimpiarAntiguos
                 // Leer el archivo de texto con las rutas de las carpetas
                 string[] carpetas = File.ReadAllLines(Path.Combine(folder, "config.ini")); //Archivo donde se almacenarán las rutas de archivos a eliminar
 
+                if (carpetas.Length > 0 && carpetas[0].StartsWith("dias="))
+                {
+                    valorDias = carpetas[0].Split('=')[1];
+                    if (!int.TryParse(valorDias, out _) || int.Parse(valorDias)< 0) //El comando "out _" nos sirve para descartar un valor temporal.
+                    {
+                        Console.WriteLine("Error: El valor de 'dias' en config.ini no es válido. Favor, ingrese un número entero positivo o cero.");
+                        Console.WriteLine("Presione cualquier tecla para salir...");
+                        Console.ReadKey();
+                        return;
+                    }
+                    else
+                    {
+                        dias = int.Parse(valorDias);
+                        if (dias == 0)
+                        {
+                            Console.WriteLine($"Advertencia!!!\n\nTodos los archivos de las carpetas listadas en la configuración serán eliminados permanentemente.\n");
+                        }
+                        else
+                        {
+                            Console.WriteLine($"Advertencia!!!\n\nLos archivos con una fecha de modificación superior a {dias} días, tomando como referencia la fecha de modificación del archivo más reciente en cada carpeta, serán eliminados permanentemente.\n");
+                        }
+                    }
+                }
+                else
+                {
+                    Console.WriteLine($"No se encontró la configuración de 'dias'.");
+                    Console.WriteLine("Presione cualquier tecla para salir...");
+                    Console.ReadKey();
+                    return;
+                }
+
                 foreach (string carpeta in carpetas)
                 {
                     // Verificar si el directorio existe
                     if (!Directory.Exists(carpeta))
                     {
-                        Console.WriteLine($"La carpeta {carpeta} no existe.");
-                        continue;
+                        if (carpeta.StartsWith("dias=", StringComparison.OrdinalIgnoreCase) || string.IsNullOrWhiteSpace(carpeta))
+                        {
+                            continue;
+                        }
+                        else
+                        {
+                            Console.WriteLine($"La carpeta {carpeta} no existe.");
+                            continue;
+                        }
                     }
 
                     // Arreglo donde daremos la instrucción para localizar archivos hasta en subcarpetas

@@ -26,3 +26,4 @@ C:\Users\USUARIO\source\repos\SolucionLimpiar\LimpiarAntiguos\obj\Release\net7.0
 C:\Users\USUARIO\source\repos\SolucionLimpiar\LimpiarAntiguos\obj\Release\net7.0\LimpiarAntiguos.pdb
 C:\Users\USUARIO\source\repos\SolucionLimpiar\LimpiarAntiguos\obj\Release\net7.0\LimpiarAntiguos.genruntimeconfig.cache
 C:\Users\USUARIO\source\repos\SolucionLimpiar\LimpiarAntiguos\obj\Release\net7.0\ref\LimpiarAntiguos.dll
+C:\Users\USUARIO\source\repos\SolucionLimpiar\LimpiarAntiguos\obj\Release\net7.0\LimpiarAntiguos.sourcelink.json

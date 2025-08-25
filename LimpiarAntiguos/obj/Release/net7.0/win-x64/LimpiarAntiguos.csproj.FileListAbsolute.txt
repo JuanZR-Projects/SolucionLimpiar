@@ -392,3 +392,4 @@ C:\Users\USUARIO\source\repos\SolucionLimpiar\LimpiarAntiguos\obj\Release\net7.0
 C:\Users\USUARIO\source\repos\SolucionLimpiar\LimpiarAntiguos\obj\Release\net7.0\win-x64\LimpiarAntiguos.pdb
 C:\Users\USUARIO\source\repos\SolucionLimpiar\LimpiarAntiguos\obj\Release\net7.0\win-x64\LimpiarAntiguos.genruntimeconfig.cache
 C:\Users\USUARIO\source\repos\SolucionLimpiar\LimpiarAntiguos\obj\Release\net7.0\win-x64\ref\LimpiarAntiguos.dll
+C:\Users\USUARIO\source\repos\SolucionLimpiar\LimpiarAntiguos\obj\Release\net7.0\win-x64\LimpiarAntiguos.sourcelink.json

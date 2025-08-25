@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LimpiarAntiguos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f099f00ec865c60e0fb05708bd6dacb7588d39c2")]
 [assembly: System.Reflection.AssemblyProductAttribute("LimpiarAntiguos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LimpiarAntiguos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
